@@ -200,6 +200,7 @@
     text-decoration:none;
     background:var(--project-selector-hover-bg);
     color:var(--project-selector-hover-color);
+    Overflow:hidden;
 }
 
 .leftmenu .bigProjectSelector span {
